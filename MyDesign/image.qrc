@@ -1,0 +1,49 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/Add.png</file>
+        <file>image/Adds.png</file>
+        <file>image/Addss.png</file>
+        <file>image/background.png</file>
+        <file>image/Bass.png</file>
+        <file>image/Basss.png</file>
+        <file>image/Bassss.png</file>
+        <file>image/Cycle.png</file>
+        <file>image/Cycles.png</file>
+        <file>image/Cycless.png</file>
+        <file>image/Delete.png</file>
+        <file>image/Deletes.png</file>
+        <file>image/Deletess.png</file>
+        <file>image/Download.png</file>
+        <file>image/Downloads.png</file>
+        <file>image/Downloadss.png</file>
+        <file>image/Fast forward.png</file>
+        <file>image/Front.png</file>
+        <file>image/Fronts.png</file>
+        <file>image/Frontss.png</file>
+        <file>image/Loudly.png</file>
+        <file>image/Loudlys.png</file>
+        <file>image/Loudlyss.png</file>
+        <file>image/Mute.png</file>
+        <file>image/Mutes.png</file>
+        <file>image/Mutess.png</file>
+        <file>image/MyApp.ico</file>
+        <file>image/Next.png</file>
+        <file>image/Nexts.png</file>
+        <file>image/Nextss.png</file>
+        <file>image/Random.png</file>
+        <file>image/Randoms.png</file>
+        <file>image/Randomss.png</file>
+        <file>image/Rewind.png</file>
+        <file>image/Search.png</file>
+        <file>image/Searchs.png</file>
+        <file>image/Searchss.png</file>
+        <file>image/Start.png</file>
+        <file>image/Starts.png</file>
+        <file>image/Startss.png</file>
+        <file>image/Stop.png</file>
+        <file>image/Stops.png</file>
+        <file>image/Stopss.png</file>
+        <file>image/backG.png</file>
+        <file>image/music.ico</file>
+    </qresource>
+</RCC>
